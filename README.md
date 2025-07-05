@@ -1,4 +1,4 @@
-# **FPGA UART Echo System**
+# **UART Implementation in Verilog**
 
 This project implements a simple **UART Echo System** using Verilog on the **Basys 3** FPGA board. Receive data from PC via UART, display ASCII value in seven segment display and echo back to Tera Term or PuTTY.
 
